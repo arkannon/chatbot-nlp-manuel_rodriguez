@@ -11,3 +11,4 @@ pandas
 nltk
 rouge-score
 scikit-learn
+protobuf<6
