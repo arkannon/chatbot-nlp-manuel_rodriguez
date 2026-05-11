@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+langchain-classic
+langchain-huggingface
+chromadb
+sentence-transformers
+pandas
+nltk
+rouge-score
+scikit-learn

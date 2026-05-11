@@ -1,0 +1,26 @@
+
+Natural Language Processing, or NLP, is a field of artificial intelligence that focuses on enabling computers to understand, interpret and generate human language.
+
+Large Language Models, or LLMs, are artificial intelligence models trained on large volumes of text. They can generate natural language responses, summarize information, translate text, answer questions and support conversational applications.
+
+LangChain is a framework that allows developers to build applications powered by Large Language Models. It provides tools for prompt management, chains, memory, retrieval and integration with external data sources.
+
+Conversational memory allows a chatbot to remember previous user messages during a conversation. This helps the chatbot maintain context and generate more coherent answers, especially when the user asks follow-up questions.
+
+ChromaDB is a vector database that stores embeddings. Embeddings are numerical representations of text that allow semantic search and similarity comparison.
+
+Retrieval-Augmented Generation, or RAG, is a technique that combines information retrieval with text generation. First, the system retrieves relevant information from a knowledge base, and then the language model uses that information to generate an answer.
+
+Streamlit is a Python framework used to create interactive web applications. It is useful for deploying machine learning and artificial intelligence applications with simple user interfaces.
+
+A vector database stores numerical representations of documents and allows a system to retrieve the most semantically similar information to a user question.
+
+Embeddings are useful because they convert text into vectors. These vectors make it possible to compare the meaning of questions and documents, even when they do not use exactly the same words.
+
+Information retrieval improves chatbot answers because it provides the language model with relevant context from an external knowledge base before generating the final response.
+
+Temperature is a parameter that controls the creativity of a language model. A low temperature produces more deterministic answers, while a higher temperature produces more varied and creative responses.
+
+Performance metrics for a chatbot can include BLEU, ROUGE, cosine similarity, latency, response accuracy, coherence, retrieval quality and ability to maintain context.
+
+BLEU is a metric that compares the words in a generated answer with a reference answer. ROUGE-L evaluates the longest common subsequence between the generated answer and the expected answer. Cosine similarity compares semantic similarity between embedding vectors. Latency measures the time the chatbot takes to generate an answer.
